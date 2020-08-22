@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 30px;
+    background-color: #ef5350;
+}
+
+header div h1 img {
+    width: 212px;
+}
